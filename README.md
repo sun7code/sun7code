@@ -1,6 +1,6 @@
 # **Développeur Fullstack**
 
-Bonjour! Je suis Guillaume Ballé, développeur Fullstack en reconversion professionnelle. Titulaire d'une licence en psychologie, j'ai choisi de m'orienter vers le développement informatique et j'ai acquis des compétences solides grâce à une formation en Java JEE et à l'auto-formation. Toujours curieux, je cherche constamment à m'améliorer et à relever de nouveaux défis.
+Bonjour, je suis Guillaume Ballé, développeur Fullstack en reconversion professionnelle. Titulaire d'une licence en psychologie, j'ai choisi de m'orienter vers le développement informatique et j'ai acquis des compétences solides grâce à une formation en Java JEE et à l'auto-formation. Toujours curieux, je cherche constamment à m'améliorer et à relever de nouveaux défis.
 
 ## 🛠️ Compétences
 

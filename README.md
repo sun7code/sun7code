@@ -24,4 +24,4 @@ Voici quelques projets sur lesquels j'ai travaillé durant ma formation et mon t
 
 [Site de tournois E-sport](https://github.com/sun7code/projetTounoisGaming) : Une plateforme de gestion de tournois E-sport, avec gestion des utilisateurs et affichage des résultats en temps réel.
 
-[pokeAPI Application Web](https://github.com/sun7code/exercice_javascript_pokeapi) : Une application permettant de rechercher et afficher les informations des Pokémon en utilisant l'API PokeAPI.
+[pokeAPI Application Web](https://github.com/sun7code/exercice_javascript_pokeapi) : Une application permettant de rechercher et afficher les informations des Pokémons en utilisant l'API PokeAPI.
